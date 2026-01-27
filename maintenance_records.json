@@ -1,0 +1,105 @@
+{
+  "vehicle": {
+    "name": "1995 Mazda Miata NA",
+    "current_mileage": 157786
+  },
+  "service_definitions": [
+    {
+      "id": "oil",
+      "name": "Oil Change",
+      "interval_miles": 3000,
+      "interval_months": 6,
+      "last_serviced_date": null,
+      "last_serviced_mileage": null,
+      "next_service_date": null,
+      "next_service_mileage": null
+    },
+    {
+      "id": "tires",
+      "name": "Tire Rotation",
+      "interval_miles": 5000,
+      "interval_months": null,
+      "last_serviced_date": null,
+      "last_serviced_mileage": null,
+      "next_service_date": null,
+      "next_service_mileage": null
+    },
+    {
+      "id": "brakes",
+      "name": "Brake Inspection",
+      "interval_miles": 10000,
+      "interval_months": 12,
+      "last_serviced_date": null,
+      "last_serviced_mileage": null,
+      "next_service_date": null,
+      "next_service_mileage": null
+    },
+    {
+      "id": "clutch",
+      "name": "Clutch Service",
+      "interval_miles": null,
+      "interval_months": null,
+      "last_serviced_date": null,
+      "last_serviced_mileage": null,
+      "next_service_date": null,
+      "next_service_mileage": null
+    },
+    {
+      "id": "trans",
+      "name": "Transmission Service",
+      "interval_miles": 30000,
+      "interval_months": null,
+      "last_serviced_date": null,
+      "last_serviced_mileage": null,
+      "next_service_date": null,
+      "next_service_mileage": null
+    },
+    {
+      "id": "diff",
+      "name": "Differential Service",
+      "interval_miles": 60000,
+      "interval_months": null,
+      "last_serviced_date": "2026-01-16",
+      "last_serviced_mileage": 157700,
+      "next_service_date": null,
+      "next_service_mileage": 217000
+    },
+    {
+      "id": "brake_fluid",
+      "name": "Brake & Clutch Fluid Change",
+      "interval_miles": null,
+      "interval_months": 24,
+      "last_serviced_date": null,
+      "last_serviced_mileage": null,
+      "next_service_date": null,
+      "next_service_mileage": null
+    },
+    {
+      "id": "coolant",
+      "name": "Coolant Flush",
+      "interval_miles": null,
+      "interval_months": 36,
+      "last_serviced_date": null,
+      "last_serviced_mileage": null,
+      "next_service_date": null,
+      "next_service_mileage": null
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "interval_miles": null,
+      "interval_months": null,
+      "last_serviced_date": "2026-01-26",
+      "last_serviced_mileage": 157786,
+      "next_service_date": null,
+      "next_service_mileage": null
+    }
+  ],
+  "service_log": [
+    {
+      "date": "2026-01-26",
+      "service": "Other",
+      "mileage": 157786
+    }
+  ]
+}
