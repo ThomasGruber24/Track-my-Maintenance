@@ -1,0 +1,10 @@
+{
+    "vehicle": {
+        "year": 1995,
+        "make": "Mazda",
+        "model": "Miata",
+        "current_mileage": 152000
+    },
+    "service_definitions": [],
+    "service_log": []
+}

@@ -1,0 +1,10 @@
+{
+    "vehicle": {
+        "year": 2015,
+        "make": "Mazda",
+        "model": "Mazda3",
+        "current_mileage": 148222
+    },
+    "service_definitions": [],
+    "service_log": []
+}
